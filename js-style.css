@@ -1,0 +1,18 @@
+button {
+    display: inline-block;
+    background-color: #72DD2B;
+    padding: 12px;
+    width: 200px;
+    border-color: #66be2b; 
+    border-radius: 10px;
+    font-size: 18px;
+}
+input {
+    display: inline-block;
+    background-color: #EDEDED;
+    padding: 12px;
+    width: 300px;
+    border-color: #cac9c9; 
+    border-radius: 12px;
+    font-size: 16px;
+}
